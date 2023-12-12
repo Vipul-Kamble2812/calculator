@@ -11,8 +11,8 @@ function Calci() {
     </div>
 
     <div className='row'>
-        <button className='btn btn-dark col m-1 fs-3'>cls</button>
-        <button className='btn btn-dark col m-1 fs-3'>backspace</button>
+        <button className='btn btn-outline-dark col m-1 fs-3'>cls</button>
+        <button className='btn btn-outline-dark col m-1 fs-3'>backspace</button>
       
     
     </div>
